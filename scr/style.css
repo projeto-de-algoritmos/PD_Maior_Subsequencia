@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif
+}
+
+body {
+    background-color: #274862;
+}
+
+h1, h2, h3, p, label, input {
+    color: white;
+}
+
+button {
+    width: 200px;
+    border: none;
+    background-color: #0a2336;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 4px;
+    padding: 12px 20px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+label {
+    margin: 0 auto;
+    display: none;
+}
+
+input {
+    width: 300px;
+    border: none;
+    margin: 0 auto;
+    background-color: #0a2336;
+    color: white;
+    padding: 12px 8px;
+    border-radius: 4px;
+}
+
+input::placeholder {
+    color: white;
+}
+
+.title {
+    margin-top: 48px;
+    display: block;
+    text-align: center;
+    color: white;
+}
+
+.result {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+}
+
+.random {
+    color: white;
+    flex-direction: row;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+
+form {
+    margin-top: 64px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+
