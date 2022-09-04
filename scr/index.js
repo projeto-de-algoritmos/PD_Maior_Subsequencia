@@ -3,7 +3,7 @@ const form = document.querySelector(".form")
 const input = document.querySelector(".form input")
 
 vetor = []
-for (let i = 0; i < 7; i++) {
+for (let i = 0; i < 20; i++) {
     const randomico = parseInt(Math.random() * 10)
     vetor.push(randomico)
 }

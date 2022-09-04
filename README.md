@@ -1,45 +1,60 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Maior Subsequência
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: PD<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0027088 |  Eliás Yousef Santana Ali |
+| 20/0038141  | Gustavo Duarte Moreira |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O objetivo do projeto é implementar um algoritmo que encontre a maior subsequência crescente de um vetor. A maior subsequência é uma sequência que pode ser obtida a partir de outra sequência removendo zero ou mais elementos sem mudar a ordem dos elementos restantes.
+
+O usuário deve olhar a sequência aleatória e tentar encontrar a maior subsequência crescente. E informar o seu tamanho da e o sistema verificará se o usuário acertou utilizando o algoritimo de PD LIS.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+
+![Exemplo1](img/lis_exemplo1.png)
+
+
+![Exemplo de troco 1](img/lis_exemplo2.png)
+
+
+
+![Exemplo de troco 1](img/lis_exemplo3.png)
+
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: javascript<br>
+**Framework**: N/A<br>
+
+***Pre-requsitos***
+
+Possuir um navegador de internet instalado na máquina.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
+**Clonar o repositório**
+```
+    git clone https://github.com/projeto-de-algoritmos/PD_Maior_Subsequencia
+```
+**Entar o repositório**
+```
+    cd PD_Maior_Subsequencia/src
+```
+**Executar o comando**
+```
+    Abrir o arquivo index.html em um navegador
+```
 ## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+Observação: Os testes foram realizados em dois computadores um no sitema operacional UBUNTU 20.04 e outro no Windows 10.
 
 
+
+## Video
+
+[Video da apresentação](video/PD_Maior_Subsequencia.mp4)
 
 
