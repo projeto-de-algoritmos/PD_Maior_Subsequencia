@@ -11,7 +11,7 @@
 ## Sobre 
 O objetivo do projeto é implementar um algoritmo que encontre a maior subsequência crescente de um vetor. A maior subsequência é uma sequência que pode ser obtida a partir de outra sequência removendo zero ou mais elementos sem mudar a ordem dos elementos restantes.
 
-O usuário deve olhar a sequência aleatória e tentar encontrar a maior subsequência crescente. E informar o seu tamanho da e o sistema verificará se o usuário acertou utilizando o algoritimo de PD LIS.
+O usuário deve olhar a sequência aleatória e tentar encontrar a maior subsequência crescente. E informar o seu tamanho da e o sistema verificará se o usuário acertou utilizando o algoritimo.
 
 ## Screenshots
 
